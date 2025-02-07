@@ -36,6 +36,7 @@ This is a Flutter app demonstrating how to implement a **Hidden Drawer Menu** fo
     ItemHiddenMenu: Defines the style and behavior of each menu item (Home, Settings).
 
 # Dependencies
+    Used package version : hidden_drawer_menu: ^3.0.1
     hidden_drawer_menu: A package used to create the hidden drawer navigation menu.
     flutter/material.dart: Flutter's material design package for building the user interface.
 
